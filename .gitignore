@@ -1,0 +1,13 @@
+/.idea
+__pycache__/
+*.pth
+*.pt
+*.npz
+*.npy
+*.csv
+/src/data/
+/src/HPC/fig_result
+*.jpg
+*.png
+*.fig
+*.mat
